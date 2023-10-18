@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+}
+
+.color {
+  color: white;
+}
+
+.font {
+  font-family: "Caveat", cursive;
+  font-family: "Libre Baskerville", serif;
+}
+
+.border {
+  border: 5px solid white;
+}
+
+.center {
+  text-align: center;
+}
+
+.text {
+  text-transform: uppercase;
+}
+
+.adjust {
+  width: 50%;
+  margin-left: 25%;
+}
+
+.margin {
+  margin-top: 40px;
+}
+
+.width {
+  width: 100%;
+}
